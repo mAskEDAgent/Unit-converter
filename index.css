@@ -45,6 +45,7 @@ body {
     margin: 20px 0;
     color: #5A537B;
     padding: 0 25px;
+    border-radius: 5px;
 }
 .conversion-section{
     display: flex;
